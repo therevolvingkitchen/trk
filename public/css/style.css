@@ -511,6 +511,17 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 /* ==================================================
+  About Styling
+  ================================================== */
+  .about {
+    padding-bottom: 45px;
+  }
+  
+  .about h2 {
+    color: #C01B24;
+  }
+
+/* ==================================================
   Features Styling
   ================================================== */
 .features {
@@ -536,14 +547,14 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .feature-col .feature-icon {
-  width: 70px;
-  height: 70px;
+  width: 150px;
+  height: 150px;
   margin-bottom: 15px;
   background: #C01B24;
   color: #fff;
   font-size: 24px;
   text-align: center;
-  line-height: 70px;
+  line-height: 180px;
   border-radius: 50%;
   display: inline-block;
 }
