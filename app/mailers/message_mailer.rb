@@ -1,7 +1,7 @@
 class MessageMailer < ActionMailer::Base
     
       default from: "imgamehmet@gmail.com"
-      default to: "mimga74@yahoo.com"
+      default to: "therevolvingkitchen@gmail.com"
       
       layout 'new_message'
       
