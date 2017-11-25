@@ -1,6 +1,6 @@
 class MessageMailer < ActionMailer::Base
     
-      default from: "imgamehmet@gmail.com"
+      default from: "TRK contact us <therevolvingkitchen@gmail.com>"
       default to: "therevolvingkitchen@gmail.com"
       
       layout 'new_message'
