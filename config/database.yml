@@ -19,4 +19,4 @@ production:
   <<: *default
   database: trk
   username: trk
-  password: <%= ENV['TRKTEST_DATABASE_PASSWORD'] %>
+  password: <%= ENV['TRK_DATABASE_PASSWORD'] %>
