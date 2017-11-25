@@ -3,6 +3,7 @@ class MessageMailer < ActionMailer::Base
       default from: "imgamehmet@gmail.com"
       default to: "mimga74@yahoo.com"
       
+      layout 'new_message'
       
       def new_message(message)
         @message = message
