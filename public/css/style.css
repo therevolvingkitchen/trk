@@ -532,6 +532,10 @@ body.mobile-nav-active #mobile-nav-toggle {
   color: #C01B24;
 }
 
+.features h3 {
+  color: #C01B24;
+}
+
 .feature-col {
   display: table;
   padding-bottom: 45px;
@@ -605,6 +609,11 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .portfolio h2 {
+  color: #C01B24;
+  margin-bottom: 25px;
+}
+
+.portfolio h3 {
   color: #C01B24;
   margin-bottom: 25px;
 }
