@@ -530,10 +530,12 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .features h2 {
   color: #C01B24;
+  margin-bottom: 25px;
 }
 
 .features h3 {
   color: #C01B24;
+  margin-bottom: 25px;
 }
 
 .feature-col {
