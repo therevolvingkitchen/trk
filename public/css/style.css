@@ -291,7 +291,7 @@ a:hover {
   padding: 22px 15px 18px 15px;
   text-decoration: none;
   display: inline-block;
-  color: #fff;
+  color: #c01b24;
   font-family: "Roboto", Helvetica, Arial, sans-serif;
   font-weight: 300;
   font-size: 15px;
@@ -530,6 +530,12 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .features h2 {
   color: #C01B24;
+  margin-bottom: 25px;
+}
+
+.features h3 {
+  color: #C01B24;
+  margin-bottom: 25px;
 }
 
 .feature-col {
@@ -542,9 +548,6 @@ body.mobile-nav-active #mobile-nav-toggle {
   vertical-align: middle;
 }
 
-.feature-col > div > div:last-child {
-  padding-left: 20px;
-}
 
 .feature-col .feature-icon {
   width: 150px;
@@ -605,6 +608,11 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .portfolio h2 {
+  color: #C01B24;
+  margin-bottom: 25px;
+}
+
+.portfolio h3 {
   color: #C01B24;
   margin-bottom: 25px;
 }
